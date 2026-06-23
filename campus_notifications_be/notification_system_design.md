@@ -38,7 +38,7 @@ Response:
     {
       "id": "1",
       "type": "Placement",
-      "message": "TCS is hiring",
+      "message": "A company hiring",
       "isRead": false,
       "createdAt": "2026-04-22T10:00:00Z"
     }
@@ -116,7 +116,7 @@ Request:
 ```json
 {
   "type": "Placement",
-  "message": "Infosys recruitment drive"
+  "message": "A Company recruitment drive"
 }
 ```
 
